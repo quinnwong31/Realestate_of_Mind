@@ -4,3 +4,4 @@ pandas_ta==0.3.14b0
 GeoViews==1.9.5
 geos==0.2.3
 proj==0.2.0
+cartopy==0.18.0
