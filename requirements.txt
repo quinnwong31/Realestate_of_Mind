@@ -1,3 +1,5 @@
 Nasdaq-Data-Link==1.0.2
 hvplot==0.7.3
 pandas_ta==0.3.14b0
+GeoViews==1.9.5
+cartopy==0.18.0
