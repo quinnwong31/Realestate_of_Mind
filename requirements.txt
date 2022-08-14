@@ -5,3 +5,4 @@ GeoViews==1.9.5
 geos==0.2.3
 proj==0.2.0
 cartopy==0.18.0
+numpy==1.21.5
